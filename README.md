@@ -1,3 +1,2 @@
-# tawkit
-
-A new Flutter project.
+# TawkitApp
+تطبيق أوقات الصلاة

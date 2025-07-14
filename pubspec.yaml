@@ -1,0 +1,92 @@
+name: tawkit
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  flutter_inappwebview: ^6.1.5  
+  flutter_riverpod: ^2.6.1
+  flutter_dotenv: ^5.2.1
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+
+
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+     - .env
+     - assets/web/
+     - assets/web/audio/
+     - assets/web/azkar/
+     - assets/web/data/IQ/
+     - assets/web/data/IR/
+     - assets/web/data/IT/
+     - assets/web/data/JO/
+     - assets/web/data/KE/
+     - assets/web/data/KG/
+     - assets/web/data/KR/
+     - assets/web/data/KW/
+     - assets/web/data/LK/
+     - assets/web/data/LY/
+     - assets/web/data/NL/
+     - assets/web/data/MA/
+     - assets/web/data/NO/
+     - assets/web/data/NZ/
+     - assets/web/data/OM/
+     - assets/web/data/PK/
+     - assets/web/data/PS/
+     - assets/web/data/QA/
+     - assets/web/data/RU/
+     - assets/web/data/SA/
+     - assets/web/data/SD/
+     - assets/web/data/SE/
+     - assets/web/data/SY/
+     - assets/web/data/TN/
+     - assets/web/data/TR/
+     - assets/web/data/TZ/
+     - assets/web/data/UK/
+     - assets/web/data/US/ 
+     - assets/web/data/UZ/
+     - assets/web/data/YE/
+     - assets/web/data/IN/
+     - assets/web/data/ID/
+     - assets/web/data/GD/
+     - assets/web/data/FR/
+     - assets/web/data/ET/
+     - assets/web/data/ES/
+     - assets/web/data/EG/
+     - assets/web/data/DZ/
+     - assets/web/data/DK/
+     - assets/web/data/DE/
+     - assets/web/data/CI/
+     - assets/web/data/CA/
+     - assets/web/data/BH/
+     - assets/web/data/BE/
+     - assets/web/data/AU/
+     - assets/web/data/AL/
+     - assets/web/data/AF/
+     - assets/web/data/AE/
+     - assets/web/data/00/
+     - assets/web/font/
+     - assets/web/images/
+     - assets/web/images/meteo/
+     - assets/web/languages/
+     - assets/web/slides/
+     - assets/web/themes/
+
